@@ -59,6 +59,7 @@ along with pragmatickm-password-bom.  If not, see <http://www.gnu.org/licenses /
 		</section:nav>
 		<section:section label="Managed Dependencies">
 			<ul>
+				<li><core:link book="/password/all" page="/" /></li>
 				<li><core:link book="/password/model" page="/" /></li>
 				<li><core:link book="/password/renderer/html" page="/" /></li>
 				<li><core:link book="/password/servlet" page="/" /></li>
