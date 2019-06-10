@@ -29,7 +29,6 @@ Bill of Materials (BOM) for passwords nested within [SemanticCMS](https://github
 ## Managed Dependencies
 * [PragmaticKM Password All](https://github.com/aoindustries/pragmatickm-password-all)
 * [PragmaticKM Password Model](https://github.com/aoindustries/pragmatickm-password-model)
-* [PragmaticKM Password Renderer HTML](https://github.com/aoindustries/pragmatickm-password-renderer-html)
 * [PragmaticKM Password Servlet](https://github.com/aoindustries/pragmatickm-password-servlet)
 * [PragmaticKM Password Style](https://github.com/aoindustries/pragmatickm-password-style)
 * [PragmaticKM Password Taglib](https://github.com/aoindustries/pragmatickm-password-taglib)
