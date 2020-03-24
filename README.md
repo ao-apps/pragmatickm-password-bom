@@ -23,7 +23,7 @@ Bill of Materials (BOM) for passwords nested within [SemanticCMS](https://github
 ## Project Links
 * [Project Home](https://pragmatickm.com/password/bom/)
 * [Changelog](https://pragmatickm.com/password/bom/changelog)
-* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.pragmatickm%22%20AND%20a:%22pragmatickm-password-bom%22)
+* [Maven Central Repository](https://search.maven.org/artifact/com.pragmatickm/pragmatickm-password-bom)
 * [GitHub](https://github.com/aoindustries/pragmatickm-password-bom)
 
 ## Managed Dependencies
