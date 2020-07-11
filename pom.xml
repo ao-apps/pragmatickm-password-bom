@@ -114,6 +114,9 @@ along with pragmatickm-password-bom.  If not, see <http://www.gnu.org/licenses /
 			<dependency>
 				<groupId>com.aoindustries</groupId><artifactId>aoserv-client</artifactId><version>1.84.8${POST-SNAPSHOT}</version>
 			</dependency>
+			<dependency>
+				<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-servlet</artifactId><version>1.15.1${POST-SNAPSHOT}</version>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
 </project>
