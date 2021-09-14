@@ -156,6 +156,9 @@ along with pragmatickm-password-bom.  If not, see <http://www.gnu.org/licenses /
 			<dependency>
 				<groupId>com.aoapps</groupId><artifactId>ao-fluent-html-any</artifactId><version>0.5.2${POST-SNAPSHOT}</version>
 			</dependency>
+			<dependency>
+				<groupId>com.aoindustries</groupId><artifactId>aoserv-client</artifactId><version>1.86.0${POST-SNAPSHOT}</version>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
 </project>
