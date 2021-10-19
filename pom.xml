@@ -29,7 +29,7 @@ along with pragmatickm-password-bom.  If not, see <http://www.gnu.org/licenses /
 		<relativePath>../../parent/pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-bom</artifactId><version>1.6.1</version>
+	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-bom</artifactId><version>1.6.1-POST-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<properties>
@@ -71,7 +71,7 @@ along with pragmatickm-password-bom.  If not, see <http://www.gnu.org/licenses /
 		<connection>scm:git:git://github.com/ao-apps/pragmatickm-password-bom.git</connection>
 		<developerConnection>scm:git:git@github.com:ao-apps/pragmatickm-password-bom.git</developerConnection>
 		<url>https://github.com/ao-apps/pragmatickm-password-bom</url>
-		<tag>pragmatickm-password-bom-1.6.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<issueManagement>
