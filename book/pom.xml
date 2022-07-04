@@ -36,15 +36,15 @@ along with pragmatickm-password-bom.  If not, see <https://www.gnu.org/licenses/
     <module.name>com.pragmatickm.password.bom.book</module.name>
     <!-- These values are copied from the project being documented -->
     <documented.artifactId>pragmatickm-password-bom</documented.artifactId>
-    <documented.name>PragmaticKM Password BOM²</documented.name>
+    <documented.name>PragmaticKM Password BOM</documented.name>
     <documented.description>Bill of Materials (BOM) for passwords nested within SemanticCMS pages and elements.</documented.description>
 
     <description.html><![CDATA[Documentation for <a target="${javadoc.target}" href="${project.url}">${documented.name}</a> in <a target="${javadoc.target}" href="https://semanticcms.com/">SemanticCMS</a> format.]]></description.html>
   </properties>
 
-  <name>PragmaticKM Password BOM² Book</name>
+  <name>PragmaticKM Password BOM Book</name>
   <url>https://pragmatickm.com/password/bom/</url>
-  <description>Documentation for PragmaticKM Password BOM² in SemanticCMS format.</description>
+  <description>Documentation for PragmaticKM Password BOM in SemanticCMS format.</description>
   <inceptionYear>2019</inceptionYear>
 
   <licenses>
